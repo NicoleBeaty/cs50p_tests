@@ -14,5 +14,6 @@ def percent_to_float(p):
     p = float(p) / 100
     return p 
 
-main()
+if __name__ =="__main__":
+    main()
 
